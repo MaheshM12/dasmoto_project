@@ -1,0 +1,55 @@
+.section1{
+   
+   
+}
+.section1 p{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    margin: 0px 5px;
+    color:khaki;
+    font-size: 100px;
+    text-align: center;
+    margin:20px auto;
+    font-family: Helvetica;
+}
+.brush h1{
+    background-color: lightgreen;
+    color:white;
+    font-size: 32px;
+}
+.brush h3{
+    color: black;
+}
+.brush span{
+  color: blue;
+  font-size: 20px;
+}
+.frame h1{
+    background-color: palevioletred;
+    color: white;
+    font-size: 32px;
+}
+.frame h3{
+
+    color: black;
+}
+.frame span{
+    color: blue;
+    font-size: 20px;
+}
+.paint h1{
+    background-color: rgb(58, 161, 196);
+    color: white;
+    font-size: 32px;
+}
+.paint h3{
+
+    color: black;
+}
+.paint span{
+    color: blue;
+    font-size: 20px;
+}
+
